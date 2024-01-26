@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **yadavgmail.com**
+- 📫 How to reach me **yadav69.swayam@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny lol😂**
 

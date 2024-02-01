@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Swayam Yadav</h1>
-<h3 align="center">A passionate Cybersecurity Enthusiast 💻</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangloo69&label=Profile%20views&color=0e75b6&style=flat" alt="mangloo69" /> </p>
 

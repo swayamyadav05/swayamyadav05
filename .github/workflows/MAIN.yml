@@ -25,7 +25,7 @@ jobs:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v4
-
+      - run: echo "{environment_variable_name}={value}" >> "$GITHUB_ENV"
     # Generates the snake  
       - uses: Platane/snk@master
         id: snake-gif

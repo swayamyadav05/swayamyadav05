@@ -2,7 +2,7 @@
 
 <img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='center' height = 300 width = 300>
 
-### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Mangloo69)
+### Hi  👋   Visitor!
    - :school: I'm [Swayam Yadav](https://Swayam-Yadav.github.io/), currently studying B.Tech(CSE) from <a href="https://kiit.ac.in/">@KIIT  </a>
    -  🔭 I’m currently learning **Python** & **DA**
    -  :neutral_face: I have a **love/hate** relationship with **Programming**

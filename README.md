@@ -9,7 +9,7 @@
 <!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='center' height = 300 width = 300 -->
 <img src='https://th.bing.com/th/id/OIG4.jrBgQgQRimxyzgCA77Fa?pid=ImgGn' align = 'center' height = 500 width = 500>
 
-<h3 align="center">A pasonate human interested in cybersecurity</h3>
+<h3 align="center">A passionate human interested in cybersecurity</h3>
 
 <br/>
 

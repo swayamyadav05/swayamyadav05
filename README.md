@@ -24,16 +24,12 @@
 ⚡ Fun fact **Hacking: where curiosity meets keystrokes, and cybersecurity becomes a game of cat and mouse**
 
  </div>
- 
-
-<br />
-<br />
 
 <div align="center"> 
   <a href="mailto:yadav69.swayam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/swayam-yadav-990900229" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://Mangloo69.github.io" target="_blank">

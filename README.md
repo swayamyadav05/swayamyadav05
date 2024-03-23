@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=adobepremierpro,html,vscode,github,git,linux" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,cpp,mysql,kali" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mongodb,c,cpp,mysql,kali" /><br>
 </div>
 
 <br/>

@@ -52,12 +52,35 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mangloo69/Mangloo69/output/github-contribution-grid-snake.gif?color_snake=green&color_dots=#98FF98,#E6E6FA,#FFFF00,#FF6F61,#FFF44F>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mangloo69/Mangloo69/output/github-contribution-grid-snake.svg>
     
   <br/><br/><br/>
 </div>
 
 <hr/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amajaying&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=dark&hide_border=true)<br/>
+
+<!-- Work Summary -->
+<!-- <b>Work Summary</b><br> -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amajaying&layout=compact&count_private=true&theme=dark"> -->
+
+
+
+<!-- My Stats -->
+
+<!-- <b>My Statistics</b><br> -->
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amajaying&show_icons=true&locale=en&theme=dark" alt="amajaying" /></p> -->
+<br>
+<!-- <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=amajaying&theme=dark" alt="amajaying" style="max-width: 100%;"/> -->
+</p>
+<!-- <img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=amajaying&theme=dracula"/> -->
+
+<!-- <a href="https://quine.sh/profile/amajaying"><img src="https://stats.quine.sh/amajaying/github?simple=true" alt="amajaying's GitHub stats" width="840px"></a> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>

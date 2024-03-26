@@ -62,8 +62,8 @@
 <hr/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=Mangloo69&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mangloo69&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mangloo69&theme=dark&hide_border=true)<br/>
 
 <!-- Work Summary -->

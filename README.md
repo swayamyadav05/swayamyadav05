@@ -1,19 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mangloo69.Mangloo69" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swayam+Yadav!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swayam+Yadav!;" />
 </h1>
 
-<div align="center">
+<div align="left">
 
-<!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='center' height = 300 width = 300 -->
-<img src='https://th.bing.com/th/id/OIG4.jrBgQgQRimxyzgCA77Fa?pid=ImgGn' align = 'center' height = 500 width = 500>
+<!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='left' height = 300 width = 300 -->
+<img src='https://th.bing.com/th/id/OIG4.jrBgQgQRimxyzgCA77Fa?pid=ImgGn' align = 'left' height = 500 width = 500>
 
-<h3 align="center">A passionate human interested in cybersecurity</h3>
+<h3 align="left">A passionate human interested in cybersecurity</h3>
 
 <br/>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently studying B.Tech(CSE) from <a href="https://kiit.ac.in/">@KIIT </a>
  
@@ -25,7 +25,7 @@
 
  </div>
 
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:yadav69.swayam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -39,17 +39,17 @@
 
 
 <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=adobepremierpro,html,vscode,github,git,linux" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,c,cpp,mysql,kali" /><br>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,pr,vscode" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,html,docker,github,git" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
+<div align="left">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mangloo69/Mangloo69/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
@@ -60,7 +60,7 @@
 <hr/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mangloo69&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mangloo69&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mangloo69&theme=dark&hide_border=true)<br/>
 
 <!-- Work Summary -->
@@ -74,18 +74,18 @@
 
 <!-- <b>My Statistics</b><br> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mangloo69&show_icons=true&locale=en&theme=dark" alt="Mangloo69" /></p> -->
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mangloo69&show_icons=true&locale=en&theme=dark" alt="Mangloo69" /></p> -->
 <!-- <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mangloo69&theme=dark" alt="Mangloo69" style="max-width: 100%;"/> -->
 </p>
-<!-- <img alt="Trophy" align="center" height="250px" src="https://github-profile-trophy.vercel.app/?username=Mangloo69&theme=dracula"/> -->
+<!-- <img alt="Trophy" align="left" height="250px" src="https://github-profile-trophy.vercel.app/?username=Mangloo69&theme=dracula"/> -->
 
 <!-- <a href="https://quine.sh/profile/Mangloo69"><img src="https://stats.quine.sh/Mangloo69/github?simple=true" alt="Mangloo69's GitHub stats" width="840px"></a> -->
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
 </div>
 
 <br/><br/>
-<!--div align="center">
+<!--div align="left">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div-->
 
@@ -95,7 +95,7 @@
 <summary><b> Some Statistics Fun </b></summary>
    </br>
    </br>
-<div align="center">
+<div align="left">
 <img src='https://github-readme-stats.vercel.app/api?username=Mangloo69&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&theme=tokyonight&hide_langs_below=4' />
 </br></br>

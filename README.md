@@ -25,7 +25,7 @@
 **Hacking: where curiosity meets keystrokes, and cybersecurity becomes a game of cat and mouse**
 
  </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div align="left"> 
   <a href="mailto:yadav69.swayam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -38,10 +38,8 @@
   </a>
 </div>
 
-<br/>
-<hr/>
-<br/>
 
+<hr/>
 <h2 align="left"><u>⚒️ Languages-Frameworks-Tools ⚒️</u></h2>
 <br/>
 <div align="left">

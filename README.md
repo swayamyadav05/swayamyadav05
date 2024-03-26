@@ -62,7 +62,8 @@
 <hr/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mangloo69&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Mangloo69&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mangloo69&theme=dark&hide_border=true)<br/>
 
 <!-- Work Summary -->
@@ -82,9 +83,6 @@
 <!-- <img alt="Trophy" align="left" height="250px" src="https://github-profile-trophy.vercel.app/?username=Mangloo69&theme=dracula"/> -->
 
 <!-- <a href="https://quine.sh/profile/Mangloo69"><img src="https://stats.quine.sh/Mangloo69/github?simple=true" alt="Mangloo69's GitHub stats" width="840px"></a> -->
-<div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
-</div>
 
 <br/><br/>
 <!--div align="left">

@@ -38,10 +38,11 @@
   </a>
 </div>
 
-<hr/>
 <br/>
 <hr/>
-</u><h3 align="left"><u>⚒️ Languages-Frameworks-Tools ⚒️</u></h3>
+<br/>
+
+<h2 align="left"><u>⚒️ Languages-Frameworks-Tools ⚒️</u></h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,pr,vscode" />

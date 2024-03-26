@@ -21,10 +21,11 @@
 
 💬 Ask me about **anything [here](https://github.com/Mangloo69/Mangloo69/issues)**
 
-⚡ Fun fact **Hacking: where curiosity meets keystrokes, and cybersecurity becomes a game of cat and mouse**
+⚡ Fun fact:<br/>
+**Hacking: where curiosity meets keystrokes, and cybersecurity becomes a game of cat and mouse**
 
  </div>
-
+<br/><br/><br/><br/><br/><br/>
 <div align="left"> 
   <a href="mailto:yadav69.swayam@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -37,9 +38,10 @@
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
 <hr/>
-<h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<br/>
+<hr/>
+</u><h3 align="left"><u>⚒️ Languages-Frameworks-Tools ⚒️</u></h3>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,pr,vscode" />
@@ -49,7 +51,7 @@
 <br/>
 <hr/>
 
-<div align="left">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mangloo69/Mangloo69/output/github-contribution-grid-snake-dark.svg?palette=github-dark">

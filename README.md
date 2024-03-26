@@ -10,7 +10,7 @@
 <img src='https://th.bing.com/th/id/OIG4.jrBgQgQRimxyzgCA77Fa?pid=ImgGn' align = 'left' height = 500 width = 500>
 
 <h3 align="left">A passionate human interested in cybersecurity</h3>
-
+<hr/>
 <br/>
 
 <div align="left">
@@ -37,9 +37,8 @@
   </a>
 </div>
 
-
+<br/><br/><br/><br/><br/><br/>
 <hr/>
-<br/><br/><br/>
 <h3 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="left">

@@ -17,7 +17,7 @@
  
  🔭 I’m currently studying B.Tech(CSE) from <a href="https://kiit.ac.in/">@KIIT </a>
  
- 🌱 I’m currently learning **Python**
+ 🌱 I’m currently learning **Ethical Hacking**
 
 💬 Ask me about **anything [here](https://github.com/Mangloo69/Mangloo69/issues)**
 

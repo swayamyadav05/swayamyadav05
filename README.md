@@ -7,7 +7,7 @@
 <div align="left">
 
 <!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='left' height = 300 width = 300 -->
-<img src='https://th.bing.com/th/id/OIG4.jrBgQgQRimxyzgCA77Fa?pid=ImgGn' align = 'left' height = 500 width = 500>
+<img src='C:\Users\KIIT01\Pictures\_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp' align = 'left' height = 500 width = 500>
 
 <h3 align="left">A passionate human interested in cybersecurity</h3>
 <hr/>

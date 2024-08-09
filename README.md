@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mangloo69.Mangloo69" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=swayamyadav05.swayamyadav05" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swayam+Yadav!;" />
@@ -7,7 +7,7 @@
 <div align="left">
 
 <!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='left' height = 300 width = 300 -->
-<img src='https://drive.google.com/file/d/1XS_OZfuGoH2GucwI80PjCEQ8JnW5oqxp/view?usp=drive_link' align = 'left' height = 500 width = 500>
+<img src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
 
 <h3 align="left">A passionate human interested in cybersecurity</h3>
 <hr/>
@@ -19,7 +19,7 @@
  
  🌱 I’m currently learning **Ethical Hacking**
 
-💬 Ask me about **anything [here](https://github.com/Mangloo69/Mangloo69/issues)**
+💬 Ask me about **anything [here](https://github.com/swayamyadav05/swayamyadav05/issues)**
 
 ⚡ Fun fact:<br/>
 **Hacking: where curiosity meets keystrokes, and cybersecurity becomes a game of cat and mouse**
@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/swayam-yadav-990900229">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://Mangloo69.github.io">
+  <a href="https://swayamyadav05.github.io">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -53,7 +53,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mangloo69/Mangloo69/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
     
   <br/><br/><br/>
 </div>
@@ -61,14 +61,14 @@
 <hr/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mangloo69&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mangloo69&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=swayamyadav05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=swayamyadav05&theme=dark&hide_border=true)<br/>
 
 <!-- Work Summary -->
 <!-- <b>Work Summary</b><br> -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&layout=compact&count_private=true&theme=dark"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&layout=compact&count_private=true&theme=dark"> -->
 
 
 
@@ -76,12 +76,12 @@
 
 <!-- <b>My Statistics</b><br> -->
 
-<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mangloo69&show_icons=true&locale=en&theme=dark" alt="Mangloo69" /></p> -->
-<!-- <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mangloo69&theme=dark" alt="Mangloo69" style="max-width: 100%;"/> -->
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swayamyadav05&show_icons=true&locale=en&theme=dark" alt="swayamyadav05" /></p> -->
+<!-- <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamyadav05&theme=dark" alt="swayamyadav05" style="max-width: 100%;"/> -->
 </p>
-<!-- <img alt="Trophy" align="left" height="250px" src="https://github-profile-trophy.vercel.app/?username=Mangloo69&theme=dracula"/> -->
+<!-- <img alt="Trophy" align="left" height="250px" src="https://github-profile-trophy.vercel.app/?username=swayamyadav05&theme=dracula"/> -->
 
-<!-- <a href="https://quine.sh/profile/Mangloo69"><img src="https://stats.quine.sh/Mangloo69/github?simple=true" alt="Mangloo69's GitHub stats" width="840px"></a> -->
+<!-- <a href="https://quine.sh/profile/swayamyadav05"><img src="https://stats.quine.sh/swayamyadav05/github?simple=true" alt="swayamyadav05's GitHub stats" width="840px"></a> -->
 
 <br/><br/>
 <!--div align="left">
@@ -95,10 +95,10 @@
    </br>
    </br>
 <div align="left">
-<img src='https://github-readme-stats.vercel.app/api?username=Mangloo69&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mangloo69&theme=tokyonight&hide_langs_below=4' />
+<img src='https://github-readme-stats.vercel.app/api?username=swayamyadav05&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&theme=tokyonight&hide_langs_below=4' />
 </br></br>
-<img src="https://activity-graph.herokuapp.com/graph?username=Mangloo69&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=swayamyadav05&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
    </br>
    </br>
 </div>

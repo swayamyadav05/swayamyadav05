@@ -43,8 +43,8 @@
 <h2 align="left"><u>⚒️ Languages-Frameworks-Tools ⚒️</u></h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,pr,vscode" />
-    <img src="https://skillicons.dev/icons?i=kali,linux,html,docker,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,pr,vscode" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,html,github,git" /><br>
 </div>
 
 <br/>

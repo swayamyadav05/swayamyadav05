@@ -17,7 +17,7 @@
  
 🔭 I’m currently studying B.Tech(CSE) from <a href="https://kiit.ac.in/">@KIIT </a>
  
-🌱 I’m currently working as a SDE intern @ SkillRank 
+👨‍💻 I’m currently working as a SDE intern @ SkillRank 
   
 🌱 I'm learning **Ethical Hacking** on my own as well
 

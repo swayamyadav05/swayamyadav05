@@ -15,9 +15,11 @@
 
 <div align="left">
  
- 🔭 I’m currently studying B.Tech(CSE) from <a href="https://kiit.ac.in/">@KIIT </a>
+🔭 I’m currently studying B.Tech(CSE) from <a href="https://kiit.ac.in/">@KIIT </a>
  
- 🌱 I’m currently learning **Ethical Hacking**
+🌱 I’m currently working as a SDE intern @ SkillRank 
+  
+🌱 I'm learning **Ethical Hacking** on my own as well
 
 💬 Ask me about **anything [here](https://github.com/swayamyadav05/swayamyadav05/issues)**
 

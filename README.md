@@ -9,17 +9,17 @@
 <!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='left' height = 300 width = 300 -->
 <img src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
 
-<h3 align="left">A passionate human interested in cybersecurity</h3>
+<h3 align="left">A passionate human interested in development</h3>
 <hr/>
 <br/>
 
 <div align="left">
  
-🔭 I’m currently studying B.Tech(CSE) from <a href="https://kiit.ac.in/">@KIIT </a>
+🔭 I’m B.Tech(CSE) graduate from <a href="https://kiit.ac.in/">@KIIT </a>
  
-👨‍💻 I’m currently working as a SDE intern @ SkillRank 
+👨‍💻 I’ve working experience of 7 months as a SDE intern @ SkillRank 
   
-🌱 I'm learning **Ethical Hacking** on my own as well
+🌱 I'm learning **more about development and ethical hacking** on my own as well
 
 💬 Ask me about **anything [here](https://github.com/swayamyadav05/swayamyadav05/issues)**
 

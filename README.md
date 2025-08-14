@@ -107,8 +107,3 @@
 </details>
 </div>
 <!-- end statics fun section -->
-
-<!--details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
-<br>
-</details -->

@@ -227,3 +227,15 @@
 + Actively seeking Full-Stack/AI Developer/Security roles
 ! Strong backend foundation → Expanding frontend mastery
 ^ Specializing in AI-augmented development/security solutions
+```
+---
+> "There are two types of systems: those that have been hacked, and those that will be."  
+> *- Robert Mueller* | *Adapted with 💜 by Swayam*
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    
+  <br/><br/><br/>
+</div>

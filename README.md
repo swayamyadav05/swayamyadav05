@@ -1,19 +1,19 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=swayamyadav05.swayamyadav05" />
+<!--img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=swayamyadav05.swayamyadav05" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vleft=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swayam+Yadav!;" />
 </h1>
 
-<div align="left">
+<!--div align="left">
 
 <!--img src='https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/8QWt8LMJw3QRISimOwnd/media/65677badfe02906172523997.png' align='left' height = 300 width = 300 -->
-<img src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
+<!--img src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/main/_d7fc07f6-9359-40cb-abea-c7bdd540829b.webp" align="left" height="500" width="500">
 
-<h3 align="left">A passionate human interested in development</h3>
+<!--h3 align="left">A passionate human interested in development</h3>
 <hr/>
 <br/>
 
-<div align="left">
+<!--div align="left">
  
 🔭 I’m B.Tech(CSE) graduate from <a href="https://kiit.ac.in/">@KIIT </a>
  
@@ -28,7 +28,7 @@
 
  </div>
 <br/><br/><br/><br/><br/><br/><br/>
-<div align="left"> 
+<!--div align="left"> 
   <a href="mailto:swayam.2956work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -41,31 +41,13 @@
 </div>
 
 
-<hr/>
-<h2 align="left"><u>⚒️ Languages-Frameworks-Tools ⚒️</u></h2>
+<!--hr/>
+<!--h2 align="left"><u>⚒️ Languages-Frameworks-Tools ⚒️</u></h2>
 <br/>
-<div align="left">
+<!--div align="left">
     <img src="https://skillicons.dev/icons?i=python,vscode,mysql,mongodb,react,flask,aws,ts" />
     <img src="https://skillicons.dev/icons?i=c,cpp,pr,kali,linux,html,github,git" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/swayamyadav05/swayamyadav05/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swayamyadav05&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&layout=compact&theme=dark&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=swayamyadav05&theme=dark&hide_border=true)<br/>
+</div-->
 
 <!-- Work Summary -->
 <!-- <b>Work Summary</b><br> -->
@@ -80,12 +62,11 @@
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=swayamyadav05&show_icons=true&locale=en&theme=dark" alt="swayamyadav05" /></p> -->
 <!-- <p><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamyadav05&theme=dark" alt="swayamyadav05" style="max-width: 100%;"/> -->
-</p>
+
 <!-- <img alt="Trophy" align="left" height="250px" src="https://github-profile-trophy.vercel.app/?username=swayamyadav05&theme=dracula"/> -->
 
 <!-- <a href="https://quine.sh/profile/swayamyadav05"><img src="https://stats.quine.sh/swayamyadav05/github?simple=true" alt="swayamyadav05's GitHub stats" width="840px"></a> -->
 
-<br/><br/>
 <!--div align="left">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div-->
@@ -107,3 +88,139 @@
 </details>
 </div>
 <!-- end statics fun section -->
+
+# Hey there, I'm Swayam! 👋 
+### *Backend Alchemist & Security Sentinel* 🔒💻
+> "Coding by day, securing by night - turning coffee into resilient systems" ☕🛡️
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Python+%7C+Node.js+%7C+Cybersecurity;React+%7C+AI%2FML+%7C+Web+Vulnerabilities;Building+Secure+Backend+Systems" alt="Skills Animation" />
+</p>
+
+---
+
+<!--
+## 🔮 Tech Arsenal
+### 🧠 Core Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🔐 Security Specialties
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-7E3ACE?style=flat)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability_Research-7E3ACE?style=flat)
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/swayam">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayam&show_icons=true&theme=radical&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayam&layout=compact&theme=radical&bg_color=0d1117&title_color=7E3ACE"/>
+  </a>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=swayam&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE" alt="GitHub Streak">
+</p>
+
+---
+
+## 🚀 Highlighted Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Secure API Gateway](https://github.com/)** | Auth microservice with vulnerability scanning | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi) ![OWASP](https://img.shields.io/badge/-OWASP%20ZAP-black) |
+| **[Threat Detection AI](https://github.com/)** | ML-powered suspicious activity monitor | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) |
+| **[React Security Dashboard](https://github.com/)** | Vulnerability visualization interface | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![Express](https://img.shields.io/badge/-Express-000000?logo=express) |
+
+---
+
+## 💼 Job Status
+🔍 **Actively seeking backend/security roles!**  
+✅ Open to: Full-time • Contracts • Security Consulting  
+✨ Passionate about: Secure Architecture • API Defense • Threat Mitigation
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7E3ACE?style=for-the-badge)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@example.com)
+
+---
+
+> "There are two types of systems: those that have been hacked, and those that will be."  
+> *- Robert Mueller* | *Adapted with 💜 by Swayam*
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=swayam&color=7E3ACE&style=flat-square)
+-->
+
+<!--
+# 👋 Hello World! I'm Swayam Yadav 
+### *Full-Stack Architect + AI Agent Developer* 🤖
+> "Building intelligent systems that defend themselves" 🔒⚔️
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=MERN+%7C+FARM+%7C+Agentic+AI+Systems;Backend+Specialist+Turning+Frontend+Pro;Security-First+Development+Mindset;From+APIs+to+Autonomous+AI+Agents" alt="Specialties Animation" />
+</p>
+
+---
+
+## 🧩 Tech Matrix
+### 🧠 Core Expertise
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Full-Stack Ecosystems
+**MERN** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Express](https://img.shields.io/badge/-Express-000000?logo=express) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)  
+**FARM** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+
+### 🤖 AI Frontier
+![AI Agents](https://img.shields.io/badge/AI_Agents-7E3ACE?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+### 🛡️ Security Toolkit
+![Pentesting](https://img.shields.io/badge/Pentesting-7E3ACE?style=flat)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web_Security-4A154B?style=flat)
+
+---
+
+## 📊 GitHub Pulse
+<p align="center">
+  <a href="https://github.com/swayamyadav05">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayamyadav05&show_icons=true&theme=radical&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&layout=compact&theme=radical&bg_color=0d1117&title_color=7E3ACE&hide_border=true"/>
+  </a>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=swayamyadav05&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE&hide_border=true" alt="Coding Streak">
+</p>
+
+---
+<!--
+## 🚀 Featured Creations
+| Project | Description | Stack | Live Demo |
+|---------|-------------|-------|-----------|
+| **AI Security Co-Pilot** | Autonomous pentesting agent with LLM integration | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![LangChain](https://img.shields.io/badge/-LangChain-00A67E) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) | [![Demo](https://img.shields.io/badge/Live_Demo-7E3ACE?style=flat)](#) |
+| **Full-Stack Threat Dashboard** | Real-time vulnerability monitoring for MERN apps | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Express](https://img.shields.io/badge/-Express-000000?logo=express) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs) | [![Demo](https://img.shields.io/badge/Live_Demo-7E3ACE?style=flat)](#) |
+| **Agentic API Framework** | Self-healing API system with AI agents | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi) ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![LLM](https://img.shields.io/badge/-LLM_Agents-FF6F00) | [![Demo](https://img.shields.io/badge/Live_Demo-7E3ACE?style=flat)](#) |
+
+---
+-->
+## 🔍 Career Compass
+```diff
++ Actively seeking Full-Stack/AI Developer/Security roles
+! Strong backend foundation → Expanding frontend mastery
+^ Specializing in AI-augmented development/security solutions

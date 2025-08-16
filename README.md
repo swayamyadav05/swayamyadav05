@@ -190,6 +190,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLM_Integration-FF6F00?style=flat)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![AGNO](https://img.shields.io/badge/AGNO-FF4017?style=flat&logoColor=white)
 
 ### 🛡️ Security Toolkit
 ![Pentesting](https://img.shields.io/badge/Pentesting-7E3ACE?style=flat)

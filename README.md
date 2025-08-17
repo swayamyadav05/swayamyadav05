@@ -22,10 +22,8 @@
 🌱 I'm learning **more about development and ethical hacking** on my own as well
 
 💬 Ask me about **anything [here](https://github.com/swayamyadav05/swayamyadav05/issues)**
-
 ⚡ Fun fact:<br/>
 **Hacking: where curiosity meets keystrokes, and cybersecurity becomes a game of cat and mouse**
-
  </div>
 <br/><br/><br/><br/><br/><br/><br/>
 <!--div align="left"> 

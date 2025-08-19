@@ -182,8 +182,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 Full-Stack Ecosystems
-**MERN** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb) ![Express](https://img.shields.io/badge/-Express-000000?logo=express) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)  
-**FARM** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+**MERN** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
+**FARM** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### 🤖 AI Frontier
 ![AI Agents](https://img.shields.io/badge/AI_Agents-7E3ACE?style=for-the-badge)

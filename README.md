@@ -202,9 +202,9 @@
 ## 📊 GitHub Pulse
 <p align="center">
   <a href="https://github.com/swayamyadav05">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=swayamyadav05&show_icons=true&theme=radical&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&hide_border=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&layout=compact&theme=radical&bg_color=0d1117&title_color=7E3ACE&hide_border=true"/>
-    <img height="150em" src="https://api.boot.dev/v1/users/public/87d110c8-e44d-4abe-8c58-b6ed5bb1241d/thumbnail" >
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swayamyadav05&show_icons=true&theme=radical&bg_color=0d1117&title_color=7E3ACE&icon_color=7E3ACE&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&layout=compact&theme=radical&bg_color=0d1117&title_color=7E3ACE&hide_border=true"/>
+    <img height="180em" src="https://api.boot.dev/v1/users/public/87d110c8-e44d-4abe-8c58-b6ed5bb1241d/thumbnail" >
   </a>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=swayamyadav05&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=7E3ACE&fire=7E3ACE&currStreakLabel=7E3ACE&hide_border=true" alt="Coding Streak">

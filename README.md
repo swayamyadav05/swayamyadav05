@@ -78,7 +78,6 @@
 <div align="left">
 <img src='https://github-readme-stats.vercel.app/api?username=swayamyadav05&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=swayamyadav05&theme=tokyonight&hide_langs_below=4' />
-</br></br>
 <img src="https://activity-graph.herokuapp.com/graph?username=swayamyadav05&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
    </br>
    </br>
